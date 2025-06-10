@@ -12,4 +12,8 @@ public class matematika {
    public double setPenjumlahan(){
       return bil1 + bil2;
     }
+   
+   public double setPengurangan(){
+      return bil1 - bil2;
+    }
 }
